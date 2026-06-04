@@ -24,3 +24,9 @@ Assessed risks of a publicly exposed remote database using NIST SP 800-30;
 scored threats by likelihood and severity and proposed remediation controls 
 including MFA, least privilege, and firewall hardening | Vulnerability 
 Assessment, NIST SP 800-30, Risk Scoring, Threat Modelling, Remediation |
+
+| [Incident Handler's Journal](./incident-handlers-journal/) | 
+Multi-entry journal documenting incident investigations, SIEM queries, 
+packet analysis, and playbook execution across Splunk, Chronicle, 
+Wireshark, tcpdump, and VirusTotal | NIST IR Lifecycle, Splunk, 
+Chronicle, Wireshark, tcpdump, VirusTotal, SOC Operations |
