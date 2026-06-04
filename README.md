@@ -30,3 +30,10 @@ Multi-entry journal documenting incident investigations, SIEM queries,
 packet analysis, and playbook execution across Splunk, Chronicle, 
 Wireshark, tcpdump, and VirusTotal | NIST IR Lifecycle, Splunk, 
 Chronicle, Wireshark, tcpdump, VirusTotal, SOC Operations |
+
+| [Python Algorithm — Allow List File Updates](./python-algorithm-file-updates/) | 
+Developed a Python algorithm to automate IP address allow list 
+management for a healthcare restricted network using file I/O, 
+string/list methods, for loops, and conditional logic | Python, 
+File Handling, Security Automation, Access Control, Algorithm 
+Development |
