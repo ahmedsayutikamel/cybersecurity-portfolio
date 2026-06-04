@@ -182,5 +182,5 @@ found both intuitive and powerful for threat hunting.
 `SIEM Querying` `Log Analysis` `SOC Operations` `Packet Analysis`
 
 ## Files
-- [`incident-handlers-journal.pdf`](./incident-handlers-journal.pdf) — 
+- [`incident-handlers-journal.pdf`](./incident-handler-s-journal.pdf) — 
   Completed incident handler's journal with all entries
