@@ -7,3 +7,8 @@ Assessment, NIST CSF, Compliance |
 Analysed an ICMP flood DoS attack and produced a full NIST CSF incident 
 report covering Identify, Protect, Detect, Respond, and Recover phases | 
 NIST CSF, Incident Response, Network Security, Firewall, IDS/IPS |
+
+| [Linux File Permissions Management](./linux-file-permissions-management/) | 
+Audited and corrected Linux file system permissions using ls -la and chmod; 
+enforced least privilege across files, hidden files, and directories | 
+Linux CLI, chmod, Access Control, Least Privilege, Security Hardening |
