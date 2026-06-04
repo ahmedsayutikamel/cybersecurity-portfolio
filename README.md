@@ -18,3 +18,9 @@ Investigated suspicious login attempts and identified machines for security
 updates using SQL filters with AND, OR, NOT, and LIKE operators across 
 login and employee tables | SQL, Log Analysis, Pattern Matching, 
 Access Control Auditing |
+
+| [Vulnerability Assessment — Database Server](./vulnerability-assessment-database-server/) | 
+Assessed risks of a publicly exposed remote database using NIST SP 800-30; 
+scored threats by likelihood and severity and proposed remediation controls 
+including MFA, least privilege, and firewall hardening | Vulnerability 
+Assessment, NIST SP 800-30, Risk Scoring, Threat Modelling, Remediation |
